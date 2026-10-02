@@ -1,6 +1,6 @@
 # Hi, I'm Abdelrahman Mahmoud 👋
 
-### 📊 Data Analyst | SQL · Python · Power BI · Tableau · LockerStudio
+### 📊 Data Analyst | SQL · Python · Power BI · Tableau · LookerStudio(DataStudio)
 
 I turn raw data into clear insights and business decisions. I work across the full analytics workflow: cleaning data, analyzing it with SQL and Python, building machine learning models, and presenting results through dashboards.
 
