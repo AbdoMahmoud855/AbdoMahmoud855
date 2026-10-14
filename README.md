@@ -21,8 +21,8 @@ Alongside analytics, I also build mobile applications with Flutter.
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdo-mahmoud-26458321a) [![hackerrank](<img width="576" height="636" alt="image" src="https://github.com/user-attachments/assets/2dcd4633-0730-42b5-9ddb-1dd3518986be" />)
-](https://www.hackerrank.com/profile/abdulrahman_mah7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrahman.mahmoud.salah855@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdo-mahmoud-26458321a)
+[![hackerrank](https://github.com/FortAwesome/Font-Awesome/issues/13547)](https://www.hackerrank.com/profile/abdulrahman_mah7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrahman.mahmoud.salah855@gmail.com)
 
 ---
 
